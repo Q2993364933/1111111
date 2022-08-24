@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>呃的个人网站</title>
+  </head>
+  <body>
+  </body>
+
+
+
+
+
+
+<style>
+
+
+body{background-image:url('https://s1.328888.xyz/2022/08/23/bZz8F.jpg');
+  
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-position:bottom;
+  
+
+}
+
+ul{
+  list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+ background-color:#D8D8D8;
+border-radius:15px;
+    
+    width: 100%
+    }
+ 
+ li{
+   float:left;
+   border-right:2px solid #bbb;
+ 
+  }
+ 
+ li:last-child{border-right:none;}
+ 
+ 
+ li a{
+   display:block;
+   color:white;
+   text-align:center;
+   padding:20px 26px;
+   text-decoration: none;
+   }
+ li a:hover{color:black;
+   }
+   
+ #two{background-color:lightblue;
+   color:black;
+   border-radius:15px;
+    }
+ </style>
+
+
+<style>
+#three{text-align:center;
+ padding:50px; 
+background:lightgrey;
+border-radius:24px;
+hight:60px;
+border:5px solid pink;
+opacity:0.7;
+}
+</style>
+<ul>
+<div style=:text-align:left">
+<li> <a id="two" href="file:///storage/emulated/0/WebCat/project/css 首页/index.html">首页</a></li>
+<li> <a href="待定导航栏链接">未定</a></li>
+<li> <a href="待定导航栏链接">未定</a></li>
+<li> <a href="file:///storage/emulated/0/WebCat/project/css 关于/index.html">关于</a></li>
+</ul>
+<hr></hr>
+
+<body>
+<div style="font-size:30px;text-align:center">
+<img src="https://s1.328888.xyz/2022/08/23/btQSj.jpg";alt="加载错误";width="70px"height="70px" id="picture">
+欢迎进入本网站！
+</div>
+<hr></hr>
+</img>
+<div style="background:blue;width:350px;height:10px;border-radius-bottom:25px;">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div style="padding:10px;background:lightgrey;border-radius:35px;hight:60px;">
+<b>🔔</b>:网站为个人所创网站,仅观看,无其他用途
+</div>
+<p style="text-align:left;font-size:30px;color:black" id="three";>
+<b>说明:</b>导航栏关于里有个人联系方式，首页底部有个人邮箱，
+如有改进地方，可联系说明
+<p></p>
+<p></p>
+
+
+<p>
+构建网络安全的基石，实现网络权力的梦想。网络安全是每个人的责任。加强预防意识，严格遵守个人信息。共同建设网络安全，保护绿色家园
+</p>
+
+</p>
+<style>
+#picture{border-radius:50%;
+  
+  }
+</style>
+<div style="font-size:17px;border-radius:25px;background:lightblue;border:2px solid black;">
+<img src="https://s1.328888.xyz/2022/08/23/bMB3I.png";alt="加载错误";width="40px" height="40px" id="picture">
+创作软件:WebCat
+<img src="https://s1.328888.xyz/2022/08/23/byYdd.jpg";alt="加载错误";width="40px" height="40px" id="picture">
+创作人:呃
+</img>
+</img>
+</img>
+</div>
+<hr></hr>
+<style>
+#one{color:grey;background-color:#D8D8D8;border-radius:30px;text-align:center
+   }
+</style>
+<div id="one"><b>⊙邮箱:</b>2993364933@qq.com<b>⊙</b></div>
+</body>
+</html>
